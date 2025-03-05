@@ -10,3 +10,6 @@
 ``` python
 myname = str('minato')
 ```
+
+- [ ] have dinner
+- [ ] go to bed
